@@ -4,9 +4,9 @@
 
 I'm a Computer Science student at the University of Washington, passionate about AI, data science, and building technology that promotes equitable access. I’m driven by a desire to give back to my community, take on new challenges, and continuously grow through learning.
 
-🔗 [LinkedIn profile](https://linkedin.com/in/your-linkedin-url)  
+🔗 [LinkedIn](https://linkedin.com/in/your-linkedin-url)  
 📫 **Email:** lidiatesfaye@gmail.com
-N
+
 <!--
 **Springale/springale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
