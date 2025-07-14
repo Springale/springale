@@ -1,5 +1,12 @@
-## Hi there 👋
+<img src="[https://your-image-link.com](https://github.com/user-attachments/assets/ba086dae-7122-46d3-8d55-e3844f7eed6b)" width="150" alt="Lidia Workneh" style="border-radius: 50%"> 
 
+# Hi, I'm Lidia Workneh 👋🏽
+
+I'm a Computer Science student at the University of Washington, passionate about AI, data science and building technology that creates equitable access. With experience in software development, product design, and AI research, I enjoy turning ideas into impactful, inclusive solutions.
+
+🔗 [LinkedIn profile](https://linkedin.com/in/your-linkedin-url)  
+📫 **Email:** lidiatesfaye@gmail.com
+N
 <!--
 **Springale/springale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
