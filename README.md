@@ -2,7 +2,7 @@
 
 # Hi, I'm Lidia Workneh 👋🏽
 
-I'm a Computer Science student at the University of Washington, passionate about AI, data science and building technology that creates equitable access. With experience in software development, product design, and AI research, I enjoy turning ideas into impactful, inclusive solutions.
+I'm a Computer Science student at the University of Washington, passionate about AI, data science, and building technology that promotes equitable access. I’m driven by a desire to give back to my community, take on new challenges, and continuously grow through learning.
 
 🔗 [LinkedIn profile](https://linkedin.com/in/your-linkedin-url)  
 📫 **Email:** lidiatesfaye@gmail.com
