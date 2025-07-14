@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ba086dae-7122-46d3-8d55-e3844f7eed6b" width=200 alt="Lidia Workneh" style="border-radius: 50%"> 
+<img src="https://github.com/user-attachments/assets/ba086dae-7122-46d3-8d55-e3844f7eed6b" width=600 alt="Lidia Workneh" style="border-radius: 50%"> 
 
 # Hi, I'm Lidia Workneh 👋🏽
 
