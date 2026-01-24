@@ -1,5 +1,3 @@
-<img src="https://github.com/user-attachments/assets/ba086dae-7122-46d3-8d55-e3844f7eed6b" width=600 alt="Lidia Workneh" style="border-radius: 50%"> 
-
 # Hi, I'm Lidia Workneh 👋🏽
 
 I'm a Computer Science student at the University of Washington, passionate about AI, data science, and building technology that promotes equitable access. I’m driven by a desire to give back to my community, take on new challenges, and continuously grow through learning.
